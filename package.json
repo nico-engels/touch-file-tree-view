@@ -1,0 +1,18 @@
+{
+  "name": "touch-file-tree-view",
+  "main": "./lib/touch-file-tree-view",
+  "version": "0.0.0",
+  "description": "Unix touch-like command in tree view.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "touch-file:refresh-file"
+  },
+  "repository": "https://github.com/nico-engels/touch-file-tree-view",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
