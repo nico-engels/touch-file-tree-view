@@ -1,10 +1,9 @@
 {
   "name": "touch-file-tree-view",
   "main": "./lib/touch-file-tree-view",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Unix touch-like command in tree view.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "touch-file:refresh-file"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
